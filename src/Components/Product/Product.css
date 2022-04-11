@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    margin: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.product-description{
+    padding-left: 25px;
+
+}
+.product-description h5{
+    font-weight: 500;
+}
+.cart-btn{
+    cursor: pointer;
+    background-color: brown;
+    width: 150px;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+
+}
